@@ -8,3 +8,4 @@
     - ```Asset Discovery / Network Scanning``` // [Amass](https://github.com/owasp-amass/amass) - [Nmap](https://github.com/nmap/nmap) - [RustScan](https://github.com/RustScan/RustScan)
     - ```Directory Enumeration```  //  [Dirsearch](https://github.com/maurosoria/dirsearch) - [GoBuster](https://github.com/OJ/gobuster)
     - ```Subdomain Enumeration```  //  [Dnscan](https://github.com/rbsec/dnscan) - [Knock](https://github.com/guelfoweb/knock) - [Subfinder](https://github.com/projectdiscovery/subfinder) - [Sublist3r](https://github.com/aboul3la/Sublist3r)
+    - ```Website Scanning``` // [Aquatone](https://github.com/michenriksen/aquatone) - [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - [Wpscan](https://github.com/wpscanteam/wpscan)
