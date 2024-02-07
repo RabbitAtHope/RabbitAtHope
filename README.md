@@ -1,6 +1,7 @@
 ### Starred Collections
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
-  - ```Credential Checking```  // [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet) - [SecLists](https://github.com/danielmiessler/SecLists)
+  - 🔑 ```Credential Checking```  // [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet) - [SecLists](https://github.com/danielmiessler/SecLists)
+  - 🔑 ```Personal Security``` // [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 - 🔒 [Cybersecurity Tools](https://github.com/stars/RabbitAtHope/lists/cybersecurity-tools)
   - ```Defenses```  //  [Fail2ban](https://github.com/fail2ban/fail2ban)
   - ```Toolkits```  //  [Red Team Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
