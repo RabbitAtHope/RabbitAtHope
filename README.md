@@ -1,4 +1,5 @@
 ### Hope College
+- ⚓ [Website](https://hope.edu)
 - ✅ [System Status Dashboard](https://status.hope.edu)
 
 ### Starred Collections
