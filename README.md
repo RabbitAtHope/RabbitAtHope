@@ -5,8 +5,8 @@
 
 *Nothing here yet...*
 
-### Server Maintenance
-- ```Performance Monitoring``` // [Gping](https://github.com/orf/gping)
+### 🗄️ Server Maintenance
+- 🗄️ ```Performance Monitoring``` // [Gping](https://github.com/orf/gping)
 
 ### 🧰 Security Toolbox
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
