@@ -1,8 +1,11 @@
-### Hope College
-- ⚓ [Website](https://hope.edu)
-- ✅ [System Status Dashboard](https://status.hope.edu)
+### ⚓ Hope College
+[Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu)
 
-### Starred Collections
+### 👾 Some Stuff I Made
+
+*Nothing here yet...*
+
+### 🧰 Security Toolbox
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
   - 🔑 ```Credential Checking```  // [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet) // [SecLists](https://github.com/danielmiessler/SecLists)
   - 🔑 ```Personal Security``` // [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
