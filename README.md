@@ -1,5 +1,5 @@
 ### ⚓ Hope College
-[Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu)
+[Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu) // [Upptime Page](https://github.com/Hope-College-CIT/status)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### 🗄️ Server Maintenance
 - 🗄️ ```Automation``` // [Ansible](https://github.com/ansible/ansible)
-- 🗄️ ```Performance Monitoring``` // [Fping](https://github.com/schweikert/fping) // [Gping](https://github.com/orf/gping)
+- 🗄️ ```Performance Monitoring``` // [Fping](https://github.com/schweikert/fping) // [Gping](https://github.com/orf/gping) // [Upptime](https://github.com/upptime/upptime)
 
 ---
 
