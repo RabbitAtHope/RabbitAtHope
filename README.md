@@ -19,7 +19,7 @@
   - 🔑 ```Credential Checking```  // [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet) // [SecLists](https://github.com/danielmiessler/SecLists)
   - 🔑 ```Personal Security``` // [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 - 🔒 [Cybersecurity Tools](https://github.com/stars/RabbitAtHope/lists/cybersecurity-tools)
-  - ```Defenses```  //  [Fail2ban](https://github.com/fail2ban/fail2ban)
+  - ```Defenses / Detection```  //  [Fail2ban](https://github.com/fail2ban/fail2ban) // [Maltrail](https://github.com/stamparm/maltrail)
   - ```Toolkits```  //  [Red Team Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
   - ```Penetration Testing```
     - 👁️ ```Asset Discovery / Network Scanning``` // [Amass](https://github.com/owasp-amass/amass) // [Masscan](https://github.com/robertdavidgraham/masscan) // [Naabu](https://github.com/projectdiscovery/naabu) // [Nmap](https://github.com/nmap/nmap) // [RustScan](https://github.com/RustScan/RustScan)
