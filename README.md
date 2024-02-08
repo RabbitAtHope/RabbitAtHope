@@ -1,12 +1,18 @@
 ### ⚓ Hope College
 [Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu)
 
+---
+
 ### 👾 Some Stuff I Made
 
 *Nothing here yet...*
 
+---
+
 ### 🗄️ Server Maintenance
 - 🗄️ ```Performance Monitoring``` // [Fping](https://github.com/schweikert/fping) // [Gping](https://github.com/orf/gping)
+
+---
 
 ### 🧰 Security Toolbox
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
