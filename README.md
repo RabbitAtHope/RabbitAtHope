@@ -1,5 +1,5 @@
 ### Hope College
-- [System Status Dashboard](status.hope.edu)
+- [System Status Dashboard](https://status.hope.edu)
 
 ### Starred Collections
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
