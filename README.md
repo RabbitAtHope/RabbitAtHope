@@ -10,6 +10,7 @@
 ---
 
 ### 🗄️ Server Maintenance
+- 🗄️ ```Automation``` // [Ansible](https://github.com/ansible/ansible)
 - 🗄️ ```Performance Monitoring``` // [Fping](https://github.com/schweikert/fping) // [Gping](https://github.com/orf/gping)
 
 ---
