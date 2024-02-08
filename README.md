@@ -52,7 +52,7 @@
 <!------->
 
 ### ⚓ Hope College
-[Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu) // [Upptime Page](https://github.com/Hope-College-CIT/status)
+[Website](https://hope.edu) // [System Status Dashboard](https://status.hope.edu) // [Upptime](https://github.com/Hope-College-CIT/status) // [Upptime Status Page](https://status.herzog.tech/)
 
 ---
 
