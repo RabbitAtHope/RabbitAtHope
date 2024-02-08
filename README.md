@@ -1,3 +1,6 @@
+### Hope College
+- [System Status Dashboard](status.hope.edu)
+
 ### Starred Collections
 - 🔒 [Cybersecurity Lists](https://github.com/stars/RabbitAtHope/lists/cybersecurity-lists)
   - 🔑 ```Credential Checking```  // [DefaultCreds](https://github.com/ihebski/DefaultCreds-cheat-sheet) // [SecLists](https://github.com/danielmiessler/SecLists)
