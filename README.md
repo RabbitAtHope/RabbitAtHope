@@ -63,4 +63,4 @@
 
 ---
 
-<!-- ![Activity Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RabbitAtHope&theme=tokyonight)-->
+![Activity Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RabbitAtHope&theme=tokyonight)
