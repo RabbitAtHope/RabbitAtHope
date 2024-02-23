@@ -65,4 +65,6 @@
 
 ![Activity Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RabbitAtHope&theme=tokyonight)
 
-![](https://github-profile-trophy.vercel.app/?username=RabbitAtHOpe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RabbitAtHope&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitAtHope&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
