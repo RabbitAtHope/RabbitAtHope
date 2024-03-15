@@ -1,3 +1,5 @@
+![Logo](https://github.com/RabbitAtHope/RabbitAtHope/assets/159293241/2f28e4a0-3986-45db-9eef-9e894748aeb2)
+
 ![Activity Graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RabbitAtHope&theme=radical&rank_icon=percentile&show_icons=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=RabbitAtHope&theme=radical&no-frame=false&no-bg=false&margin-w=4)
