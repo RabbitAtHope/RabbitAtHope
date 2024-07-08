@@ -14,7 +14,7 @@
   <div>////</div>
   <div><i>password tools:</i> 🍀 <a href="https://github.com/RabbitAtHope/Leprechaun"><i>leprechaun</i></a> •</div>
   <div>////</div>
-  <div><i>penetration testing tools:</i> ⚔️ <a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a> • ⚔️ <a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a></div>
+  <div><i>penetration testing tools:</i> ⚔️ <a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a> • 💀 <a href="https://github.com/RabbitAtHope/Screwdriver"><i>screwdriver</i></a> • ⚔️ <a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a></div>
   <div>////</div>
 </div>
 
