@@ -18,10 +18,12 @@
     <br>
     🍀 [<a href="https://github.com/RabbitAtHope/Leprechaun"><i>leprechaun</i></a>]</div>
   <div>////</div>
-  <div><b>penetration testing tools</b>
+  <div><b>penetration testing tools: manual</b>
     <br>
     ⚔️ [<a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a>] (vulnerability scanning) • 💀 [<a href="https://github.com/RabbitAtHope/Screwdriver"><i>screwdriver</i></a>] (pseudo-malware) • ⚔️ [<a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a>] (email)</div>
   <div>////</div>
+  <div><b>penetration testing tools: automated</b>
+    <br>
+    -
+  <div>////</div>
 </div>
-
-<!--a href="https://github.com/RabbitAtHope/repo" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitAtHope&repo=repo&theme=radical"></a>-->
