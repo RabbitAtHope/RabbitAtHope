@@ -10,11 +10,17 @@
 
 <div align="center">
   <div>////</div>
-  <div><i>server administration tools:</i> 🔪 <a href="https://github.com/RabbitAtHope/Boxcutter"><i>boxcutter</i></a> (windows) • 🗡️ <a href="https://github.com/RabbitAtHope/Switchblade"><i>switchblade</i></a> (linux) </div>
+  <div><b>server administration tools</b>
+    <br>
+    🔪 [<a href="https://github.com/RabbitAtHope/Boxcutter"><i>boxcutter</i></a>] (windows) • 🗡️ [<a href="https://github.com/RabbitAtHope/Switchblade"><i>switchblade</i></a>] (linux)</div>
   <div>////</div>
-  <div><i>password tools:</i> 🍀 <a href="https://github.com/RabbitAtHope/Leprechaun"><i>leprechaun</i></a> •</div>
+  <div><b>password tools</b>
+    <br>
+    🍀 [<a href="https://github.com/RabbitAtHope/Leprechaun"><i>leprechaun</i></a>]</div>
   <div>////</div>
-  <div><i>penetration testing tools:</i> ⚔️ <a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a> • 💀 <a href="https://github.com/RabbitAtHope/Screwdriver"><i>screwdriver</i></a> • ⚔️ <a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a></div>
+  <div><b>penetration testing tools</b>
+    <br>
+    ⚔️ [<a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a>] (vulnerability scanning) • 💀 [<a href="https://github.com/RabbitAtHope/Screwdriver"><i>screwdriver</i></a>] (pseudo-malware) • ⚔️ [<a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a>] (email)</div>
   <div>////</div>
 </div>
 
