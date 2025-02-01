@@ -17,31 +17,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RabbitAtHope&hide_rank=true&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 </div>
-
-<div align="center">
-  <div>////</div>
-  <h2>small stuff</h2>
-</div>
-
-<div align="center">
-  <div><b>server administration tools</b>
-    <br>
-    🔪 [<a href="https://github.com/RabbitAtHope/Boxcutter"><i>boxcutter</i></a>] (windows) • 🗡️ [<a href="https://github.com/RabbitAtHope/Switchblade"><i>switchblade</i></a>] (linux)</div>
-  <div>////</div>
-  <div><b>password tools</b>
-    <br>
-    🍀 [<a href="https://github.com/RabbitAtHope/Leprechaun"><i>leprechaun</i></a>]</div>
-  <div>////</div>
-  <div><b>penetration testing tools: manual</b>
-    <br>
-    ⚔️ [<a href="https://github.com/RabbitAtHope/Machete"><i>machete</i></a>] (vulnerability scanning) • 💀 [<a href="https://github.com/RabbitAtHope/Screwdriver"><i>screwdriver</i></a>] (pseudo-malware) • ⚔️ [<a href="https://github.com/RabbitAtHope/Scythe"><i>scythe</i></a>] (email)</div>
-</div>
-
-<div align="center">
-  <h2>big stuff</h2>
-</div>
-
-<div align="center">
-  <div><b>--</b>
-    <br>
-</div>
