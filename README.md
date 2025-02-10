@@ -5,14 +5,6 @@
 <div align="center">////</div>
 
 <div align="center">
-  <img height="80" src="https://github.com/RabbitAtHope/RabbitAtHope/assets/159293241/cfb4154e-1a94-49d3-adba-a0a1f7caa5bb">
-</div>
-
-<div align="center">
-  <div>////</div>
-</div>
-
-<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RabbitAtHope&hide_rank=true&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
